@@ -11,3 +11,5 @@ Please remember to keep it clean and inclusive.
 * Spiderman
 
 * The Avengers
+
+* Star Wars
