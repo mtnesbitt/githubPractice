@@ -15,3 +15,5 @@ Please remember to keep it clean and inclusive.
 * Star Wars
 
 * Guardians of the Galaxy
+
+* [9gag comic on double standards in 2018] (https://9gag.com/gag/aOrmADE)
