@@ -13,3 +13,5 @@ Please remember to keep it clean and inclusive.
 * The Avengers
 
 * Star Wars
+
+* Guardians of the Galaxy
